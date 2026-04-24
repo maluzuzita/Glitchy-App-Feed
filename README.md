@@ -37,19 +37,3 @@ O **GLITCHY** é uma "rede social experimental" focada na estética *Glitch Art*
 3.  Com os dados carregados, selecione `Transmitir` para injetar seu post no "feed global".
 
 ---
-
-## ⚙️ Instalação e Execução
-Para clonar este sistema e executá-lo em sua estação de trabalho:
-
-```bash
-# Clone o repositório
-git clone (a URL do projeto)
-
-# Entre no diretório
-cd glitchy
-
-# Instale as dependências
-npm install
-
-# Inicie o sinal
-npx expo start
