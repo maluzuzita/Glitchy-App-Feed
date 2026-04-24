@@ -1,7 +1,4 @@
 # Glitchy-App-Feed
-> "O erro faz parte do sistema. Faça parte dele, ou seja engolido por ele."
-
-O **GLITCHY** é uma "rede social experimental" focada na estética *Glitch Art* e distorções digitais. O projeto desafia a perfeição das interfaces modernas, celebrando a beleza no erro, no ruído e na fragmentação de dados.
 
 ---
 
