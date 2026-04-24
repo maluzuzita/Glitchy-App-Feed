@@ -34,3 +34,5 @@
 3.  Com os dados carregados, selecione `Transmitir` para injetar seu post no "feed global".
 
 ---
+
+# Recomenda-se abrir este projeto no site "https://snack.expo.dev/"!!
