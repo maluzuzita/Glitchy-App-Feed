@@ -1,7 +1,5 @@
 # Glitchy-App-Feed
 
----
-
 ## Justificativa de Design
 > A identidade visual do **GLITCHY** foi construída sobre os pilares da estética *Cyberpunk* e *Glitch Art*, buscando transparecer uma atmosfera de sistema distópico e subversivo.
 
@@ -35,4 +33,4 @@
 
 ---
 
-# Recomenda-se abrir este projeto no site "https://snack.expo.dev/"!!
+## Recomenda-se abrir este projeto no site "https://snack.expo.dev/"!!
